@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/sandeep/youtube_video-updated/android/app/build/intermediates/exploded-aar/com.facebook.fbui.textlayoutbuilder/textlayoutbuilder/1.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f90b593491e4044903f0bbf68dc3fa2790b151b9">
+        <dex dex="/Users/sandeep/youtube_video-updated/android/app/build/intermediates/pre-dexed/debug/com.facebook.fbui.textlayoutbuilder-textlayoutbuilder-1.0.0_c6953f5d10feae7b4075f69303c7530bbe5e87d4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/sandeep/youtube_video-updated/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fbcore/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="37345de2ed2772f385eaeec37a9c2ff0fea99ad7">
+        <dex dex="/Users/sandeep/youtube_video-updated/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-fbcore-1.3.0_ee58086c87bfc05e1cb28e0f263c22a9706d1e7f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/sandeep/youtube_video-updated/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-okhttp3/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="c03c08c9934b23c8c09c803345ec51a74119127b">
+        <dex dex="/Users/sandeep/youtube_video-updated/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-okhttp3-1.3.0_3de7f34d6eba99ac769e08141fc784e5076c5118.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/sandeep/youtube_video-updated/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="c31e21b53ff2f74664e498248d01453a32e32d48">
+        <dex dex="/Users/sandeep/youtube_video-updated/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-23.0.1_ca27978888810ff97bedeb7bfe671f63805bd88a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/sandeep/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.6.0/69edde9fc4b01c9fd51d25b83428837478c27254/okhttp-3.6.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="69edde9fc4b01c9fd51d25b83428837478c27254">
+        <dex dex="/Users/sandeep/youtube_video-updated/android/app/build/intermediates/pre-dexed/debug/okhttp-3.6.0_73081d15b4819e02b73d8dbac820df2fb147ae92.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/sandeep/youtube_video-updated/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="48c7f54c2515a2312d3a4481d10c43fbb807f3af">
+        <dex dex="/Users/sandeep/youtube_video-updated/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-1.3.0_a95e6f3c0d30a5f355508e1e7fec6e805ab67fb1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/sandeep/youtube_video-updated/android/app/build/intermediates/exploded-aar/com.facebook.soloader/soloader/0.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="8f615bca00639150c9eb6175d4b5471193f70794">
+        <dex dex="/Users/sandeep/youtube_video-updated/android/app/build/intermediates/pre-dexed/debug/com.facebook.soloader-soloader-0.1.0_a31d7e7c0093c5363afa3430ba08fcd4c9719c67.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/sandeep/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-tasks/1.4.0/d85884acf6810a3bbbecb587f239005cbc846dc4/bolts-tasks-1.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="/Users/sandeep/youtube_video-updated/android/app/build/intermediates/pre-dexed/debug/bolts-tasks-1.4.0_69e99b4394f6fbfc8b0b444ed5898c58a199e574.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/sandeep/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.13.0/a9283170b7305c8d92d25aff02a6ab7e45d06cbe/okio-1.13.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="a9283170b7305c8d92d25aff02a6ab7e45d06cbe">
+        <dex dex="/Users/sandeep/youtube_video-updated/android/app/build/intermediates/pre-dexed/debug/okio-1.13.0_d894b4b6239a265e9f06f328a48521ce7345c5c9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/sandeep/youtube_video-updated/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/jars/libs/internal_impl-23.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="aa92916125166649d8ad4ba3940c3dd7515596d3">
+        <dex dex="/Users/sandeep/youtube_video-updated/android/app/build/intermediates/pre-dexed/debug/internal_impl-23.0.1_bec259018ff8356d567ab5858fda862456cb194d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/sandeep/youtube_video-updated/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.50.4/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f768861356f4cd8613da447181fd15c3f584f52d">
+        <dex dex="/Users/sandeep/youtube_video-updated/android/app/build/intermediates/pre-dexed/debug/com.facebook.react-react-native-0.50.4_57a5f264b60fc01e9cfa1ce7ca6936ce8162a8b8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/sandeep/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp-urlconnection/3.6.0/3f9b16b774f2c36cfd86dd2053d0b3059531dacc/okhttp-urlconnection-3.6.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="3f9b16b774f2c36cfd86dd2053d0b3059531dacc">
+        <dex dex="/Users/sandeep/youtube_video-updated/android/app/build/intermediates/pre-dexed/debug/okhttp-urlconnection-3.6.0_4d14e6697c8a26c8d046d515788c1468c466a8e1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/sandeep/youtube_video-updated/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
+        <dex dex="/Users/sandeep/youtube_video-updated/android/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-23.0.1_38477fa28a5489022c488315f4adc0f692c0b1ff.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/sandeep/youtube_video-updated/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fresco/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="fe85b87215e405f5917d40ae4960488ac9224b74">
+        <dex dex="/Users/sandeep/youtube_video-updated/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-fresco-1.3.0_27f1ce76f147c7d6b245ab79aaa80e876d67924e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/sandeep/.gradle/caches/modules-2/files-2.1/com.google.code.findbugs/jsr305/3.0.0/5871fb60dc68d67da54a663c3fd636a10a532948/jsr305-3.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="5871fb60dc68d67da54a663c3fd636a10a532948">
+        <dex dex="/Users/sandeep/youtube_video-updated/android/app/build/intermediates/pre-dexed/debug/jsr305-3.0.0_50ec4b3176b5ba877ada0bd882ab658ced62d79e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/sandeep/youtube_video-updated/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-base/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="72128af126ddd7d6252da9357fe560d3abcdfb0c">
+        <dex dex="/Users/sandeep/youtube_video-updated/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-base-1.3.0_6629815ffa49328d842bcae7af1fbe7da74cba29.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/sandeep/youtube_video-updated/android/app/build/intermediates/exploded-aar/youtube_video/react-native-vector-icons/unspecified/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f2cf527de8d0bd35d72088fafea02395ba4a9eec">
+        <dex dex="/Users/sandeep/youtube_video-updated/android/app/build/intermediates/pre-dexed/debug/youtube_video-react-native-vector-icons-unspecified_3c61ddba61dcdc28f9153879d88db8a377328aea.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/sandeep/youtube_video-updated/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.50.4/jars/libs/infer-annotations-4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="9809e90be788acdb479b2b44e2112f3295a03068">
+        <dex dex="/Users/sandeep/youtube_video-updated/android/app/build/intermediates/pre-dexed/debug/infer-annotations-4.0_f9c11851adced89fa3f35758ef50fc5c0ca465d4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/sandeep/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.0.1/support-annotations-23.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="1fce89a6428c51467090d7f424e4c9c3dbd55f7e">
+        <dex dex="/Users/sandeep/youtube_video-updated/android/app/build/intermediates/pre-dexed/debug/support-annotations-23.0.1_bac7e25e36df9d9afbe485720826a9abe4f66d80.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/sandeep/.gradle/caches/modules-2/files-2.1/javax.inject/javax.inject/1/6975da39a7040257bd51d21a231b76c915872d38/javax.inject-1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="6975da39a7040257bd51d21a231b76c915872d38">
+        <dex dex="/Users/sandeep/youtube_video-updated/android/app/build/intermediates/pre-dexed/debug/javax.inject-1_1fbed358af69896658beff9e34fda6ddf1fb1ea7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/sandeep/.gradle/caches/modules-2/files-2.1/com.facebook.fbui.textlayoutbuilder/staticlayout-proxy/1.0/f162442a19fff13995fbd51ba414d9ee05579080/staticlayout-proxy-1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f162442a19fff13995fbd51ba414d9ee05579080">
+        <dex dex="/Users/sandeep/youtube_video-updated/android/app/build/intermediates/pre-dexed/debug/staticlayout-proxy-1.0_fce0732d5dddacfff69d3b071d66b0c3160997da.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/sandeep/youtube_video-updated/android/app/build/intermediates/exploded-aar/com.facebook.fresco/drawee/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="c65a2e39d54023bac3aef64a2f0cff89289c7ff6">
+        <dex dex="/Users/sandeep/youtube_video-updated/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-drawee-1.3.0_58f50ecdcb2d79db4820b21826f69e4ede616005.jar" />
+    </item>
+
+</items>
