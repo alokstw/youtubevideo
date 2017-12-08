@@ -8,7 +8,7 @@ Clone or download all files and place in your local
 
 cd yourdirectory
 
-# npm install
+npm install
 
 Open src/components/VideoList.js
 
